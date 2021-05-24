@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mtahir-dev-163728-authRole",
+      "UnauthRoleArn": "arn:aws:iam::130757093385:role/amplify-mtahir-dev-163728-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::130757093385:role/amplify-mtahir-dev-163728-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-mtahir-dev-163728-deployment",
+      "UnauthRoleName": "amplify-mtahir-dev-163728-unauthRole",
+      "StackName": "amplify-mtahir-dev-163728",
+      "StackId": "arn:aws:cloudformation:us-east-2:130757093385:stack/amplify-mtahir-dev-163728/c5dd2550-656c-11eb-ba63-0600f1d4ce0c",
+      "AmplifyAppId": "d2ssa5aoknym4u"
+    }
+  }
+}

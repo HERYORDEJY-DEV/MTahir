@@ -1,0 +1,12 @@
+{
+  "name": "mTahir",
+  "displayName": "mTahir",
+  "expo": {
+    "name": "MTahir",
+    "slug": "MTahir",
+    "version": "1.4.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
